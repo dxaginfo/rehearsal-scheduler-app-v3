@@ -1,0 +1,11 @@
+// Example: Deployment config for Heroku (Node.js)
+{
+  "name": "rehearsal-scheduler-api",
+  "scripts": {
+    "start": "node server/app.js"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "dependencies": {}
+}
